@@ -1,0 +1,13 @@
+Lista caminos:
+
+Camino 1: 1→2→3→4→8
+Cuenta congelada
+
+Camino 2: 1→2→3→5→8
+Sin transacciones
+
+Camino 3: 1→2→3→5→6→5→8
+Transacciones positivas
+
+Camino 4: 1→2→3→5→6→7→5→8
+Al menos una transacción negativa
